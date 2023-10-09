@@ -1,0 +1,45 @@
+.login {
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%
+    ),
+    linear-gradient(
+      118deg,
+      #03001e 7.55%,
+      #6203c0 40.43%,
+      #c838ec 76.75%,
+      #fdeff9 101.78%
+    );
+  padding: 64px 100px;
+  position: relative;
+  z-index: 9999;
+}
+.logo-log {
+  height: 33px;
+  width: 80px;
+  margin: 0 auto;
+}
+.login_form {
+  height: 85vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+  position: relative;
+}
+
+.lg {
+  width: 399px;
+  padding: 24px 16px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  margin: auto;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  z-index: 999;
+}

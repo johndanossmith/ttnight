@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "EventId": 31177,
+      "EvenName": "G-HOUSE SPECIAL | Thuishaven",
+      "Trending": "Yes",
+      "Description": "Friends Ticket | €24,50 in plaats van €29,50 | House, Deep House, Tech House",
+      "EventDate": "1687611600",
+      "RegistrationFrom": "1687258800",
+      "RegistrationUntil": "1687625940",
+      "MinimalAge": "18",
+      "EventCategorie": "Vriendenlijst",
+      "TicketLink": "https://tibbaa.com/order/fjxnfwk9o8",
+      "OutofStock": {
+        "sold-out": "false"
+      },
+      "WhatsappLink": "",
+      "StelzLink": "",
+      "dporiginal": "",
+      "timeofday": "Ochtend"
+    },
+    {
+      "EventId": 29406,
+      "EvenName": "DIPSHIT | Chicago Social Club",
+      "Trending": "",
+      "Description": "Friends Tickets | €7,5 in plaats van €10,5 | Hitjes, Meezingers & Confetti",
+      "EventDate": "1687906800",
+      "RegistrationFrom": "1687863600",
+      "RegistrationUntil": "1687910340",
+      "MinimalAge": "18",
+      "EventCategorie": "Vriendenlijst",
+      "TicketLink": "https://eventix.shop/qqmcbd7c",
+      "OutofStock": {
+        "sold-out": "false"
+      },
+      "WhatsappLink": "",
+      "StelzLink": "",
+      "dporiginal": "29391",
+      "timeofday": "Ochtend"
+    },
+    {
+      "EventId": 29404,
+      "EvenName": "LA FOLIE | Oliva",
+      "Trending": "",
+      "Description": "Friends Ticket | €10 in plaats van €15 | Hitjes & House",
+      "EventDate": "1687647600",
+      "RegistrationFrom": "1687604400",
+      "RegistrationUntil": "1687651140",
+      "MinimalAge": "21",
+      "EventCategorie": "Vriendenlijst",
+      "TicketLink": "https://shop2.ticketapp.nl/m4VErPs7VNHx/evenementen/60800618/tickets?friendCode=355633969",
+      "OutofStock": {
+        "sold-out": "false"
+      },
+      "WhatsappLink": "",
+      "StelzLink": "",
+      "dporiginal": "24439",
+      "timeofday": "Ochtend"
+    },
+    {
+      "EventId": 29401,
+      "EvenName": "NR. 133 | Chin Chin Club",
+      "Trending": "",
+      "Description": "Friends Guestlist | €10 in plaats van €15 | RnB, Hits & Classics",
+      "EventDate": "1687561200",
+      "RegistrationFrom": "1687518000",
+      "RegistrationUntil": "1687561200",
+      "MinimalAge": "23",
+      "EventCategorie": "Gastenlijst",
+      "TicketLink": "",
+      "OutofStock": {
+        "sold-out": "false"
+      },
+      "WhatsappLink": "",
+      "StelzLink": "",
+      "dporiginal": "24435",
+      "timeofday": "Ochtend"
+    },
+    {
+      "EventId": 29397,
+      "EvenName": "FISSA | Oliva",
+      "Trending": "",
+      "Description": "Friends Guestlist | €10 in plaats van €15 | Hitjes, Hitjes, Hitjes & House",
+      "EventDate": "1687561200",
+      "RegistrationFrom": "1687517400",
+      "RegistrationUntil": "1687561200",
+      "MinimalAge": "21",
+      "EventCategorie": "Gastenlijst",
+      "TicketLink": "",
+      "OutofStock": {
+        "sold-out": "false"
+      },
+      "WhatsappLink": "",
+      "StelzLink": "",
+      "dporiginal": "24433",
+      "timeofday": "Schemering"
+    },
+    {
+      "EventId": 29396,
+      "EvenName": "TROPICAL GARDEN | Tiwya",
+      "Trending": "",
+      "Description": "Friendlist | €8 aan de deur in plaats van €15 | Classics, Hits & House",
+      "EventDate": "1687561200",
+      "RegistrationFrom": "1687510800",
+      "RegistrationUntil": "1687561200",
+      "MinimalAge": "19",
+      "EventCategorie": "Gastenlijst",
+      "TicketLink": "",
+      "OutofStock": {
+        "sold-out": "false"
+      },
+      "WhatsappLink": "",
+      "StelzLink": "",
+      "dporiginal": "29373",
+      "timeofday": "Ochtend"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+html,
+body {
+  height: 100%;
+  background-color: #0d0b0c;
+}
+.btn-primary {
+  border-color: transparent;
+}
+.dropdown-menu {
+  background-color: #332b2f;
+}
+.wrapper {
+  margin: 0 auto;
+  min-height: 100%;
+  overflow-x: clip;
+}
+.external-dropdown {
+  position: relative;
+}
+.external-dropdown .dropdown,
+.external-dropdown .dropup {
+  position: static;
+}
+.outer {
+  display: flex;
+}
+.side {
+  margin-right: 12px;
+}
+.para {
+  width: 80%;
+  margin: auto;
+}
+.selected-button {
+  border: 2px solid #80737a;
+}

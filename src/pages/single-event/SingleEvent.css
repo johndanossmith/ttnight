@@ -1,0 +1,17 @@
+input[type='date']::-webkit-inner-spin-button,
+input[type='date']::-webkit-calendar-picker-indicator {
+  display: none;
+  -webkit-appearance: none;
+}
+.event-information-form form .checkbox input[type='checkbox']:checked::after {
+  left: 3.3px;
+}
+.event-information-form form .checkbox input {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+}
+/* .event-information-form form .checkbox input {
+  border: none;
+} */
